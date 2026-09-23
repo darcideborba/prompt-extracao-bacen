@@ -1,0 +1,24 @@
+{
+  "title": "Prompt: Extração de Séries Temporais do BACEN",
+  "description": "Prompt operacional para construir pipeline R reprodutível de extração de séries temporais do Banco Central do Brasil (SGS) e bases análogas, com painel longo e largo, derivações, controle de qualidade e descoberta dinâmica de períodos. Inclui o código R extraído do prompt. Integra a coleção de prompts de pesquisa acadêmica assistida por IA de Darci de Borba (Ipea).",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "por",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Santos Júnior, Darci de Borba",
+      "affiliation": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+      "orcid": "0000-0001-9851-5034"
+    }
+  ],
+  "keywords": [
+    "BACEN",
+    "pesquisa acadêmica",
+    "R",
+    "Banco Central do Brasil",
+    "SGS",
+    "inteligência artificial"
+  ],
+  "license": "mit"
+}
